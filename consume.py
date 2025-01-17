@@ -20,3 +20,4 @@ def consume(filename):
             day+=1
 
     dataFile.close()
+    return activityMap
