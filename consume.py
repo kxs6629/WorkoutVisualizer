@@ -1,8 +1,10 @@
+import numpy as np
+
 def consume(filename):
     dataFile= open(filename, "r")
     
     day = 0
-    activityMap = []
+    dataList = []
     # parse data file
     for line in dataFile:
         # if line is just a new line, that means new day
@@ -14,20 +16,15 @@ def consume(filename):
             dataLen = len(curLine)
             # gets a little ugly here, but I need to sanitize it 
             # To future me, we're working on sorting out how to store weight, time, etc. for the y value
-            if dataLen == 1:
-                activityMap.append([day,curLine[0]])
-                print("generic activity")
-            elif dataLen == 2:
-                activityMap.append([day,curLine[0],formatY(curLine[1])])
-                print("")
+            # if dataLen == 1:
+            #     dataList.append([int(day),curLine[0]])
+            if dataLen == 2:
+                dataList.append([int(day),curLine[0],formatY(curLine[1])])
             elif dataLen == 3:
-                activityMap.append([day,curLine[0],curLine[1],formatY(curLine[2])])
-                print()
-            else:
-                print("not sure how you got here man")
+                dataList.append([int(day),curLine[0],formatY(curLine[2])])
 
     dataFile.close()
-    return activityMap
+    return np.array(dataList) 
 
 # So this is the dirty part
 # Down the line I wanna come back here and tidy things up some more

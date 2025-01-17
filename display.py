@@ -10,4 +10,5 @@ print(data)
 
 
 # In the future, this should have a prettier interface
+# lowkey if I get this far I'm starting from scratch and making a react app
 # Once I'm satisfeid with the desktop version, I can worry about making this mobile
