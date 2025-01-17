@@ -19,9 +19,9 @@ def consume(filename):
             # if dataLen == 1:
             #     dataList.append([int(day),curLine[0]])
             if dataLen == 2:
-                dataList.append([int(day),curLine[0],formatY(curLine[1])])
+                dataList.append([int(day),curLine[0].strip().upper(),formatY(curLine[1])])
             elif dataLen == 3:
-                dataList.append([int(day),curLine[0],formatY(curLine[2])])
+                dataList.append([int(day),curLine[0].strip().upper(),formatY(curLine[2])])
 
     dataFile.close()
     return np.array(dataList) 
