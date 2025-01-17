@@ -1,0 +1,628 @@
+Mile , 15:16
+Bench , 20
+Band Kid , 5
+Shrug  , 20
+Wrist  , 20
+Ab circuit  , 8
+
+Mile , 15:52
+Bench, 15
+Band kid, 10
+Shrug , 20
+Wrist , 15
+
+Bench  , 15
+Curl , 30
+Band kid , 5
+Shrug , 25
+Wrist , 15
+Triceps , 15
+
+Mile walk , 17:34
+Leg press , 100 
+Tip toes ,  20 
+Sit ups , 20x3
+
+Mile , 15:14
+bench, 17.5
+Band kid , 10x3
+Curl , 30
+Tricep , 15
+Situps , 8
+
+Mile , 15:05
+Tip toe , 25
+Squats , 11
+Situps  , 11
+
+Mile , 15:03
+Bench , 20
+Curl , 30
+Shoulders , 10
+Triceps , 20
+
+A fucking mountain
+
+Mile , 15:05
+Bench, 22.5
+Curl , 40
+Shoulder  , 10
+Wrist , 25
+
+Mile , 14:23
+Tip toe , 25
+Leg Press , 115
+Squats , 14
+Abs , 14
+
+Push day / sick day (ironic or moronic)
+Mile , 14:22
+Bench  , 25
+Curl , 40
+Shoulder , 15
+Wrist , 20
+Triceps , 25
+Forearms , 40
+Abs , 14
+
+Mile , 13:43
+Bench , 27.5 
+Curl , 40 
+Shoulder , 15
+Wrist , 25
+Forearms , 40
+Triceps ,  20
+Abs , 10
+
+Mile  , 13:43
+Leg press , 120
+Tip toe , 35 
+Squats , 14
+Abs , 18
+
+half Mile , 7:03
+Bench  , 30
+Curl , 40
+Forearms ,40
+Shoulders , 20
+Triceps  , 25
+Wrists , 25
+Abs
+situp,25
+russian , 10
+
+Mile , 13:43
+Bench , 35
+Curl , 40
+Forearms , 40
+Shoulders , 15
+Triceps , 25
+Lawn mower , 25
+Pecs , 10
+Wrist , 15
+Abs , 14
+
+Mile , 11:37
+Squat , 35
+Tip toes , 35
+Abs , 6
+
+Mile , 16:24
+Bench , 35
+Curl , 50 
+Forearms , 50
+Shoulder , 20
+Triceps , 25
+Lawn mower , 25
+Pecs , 15
+Wrists , 15
+Abs , 10
+
+Half Mile , 7:45
+Squat ,  32.5
+Tip toes , 25
+Abs , 11
+
+Half Mile , 8:15
+Curl , 50
+Bench , 35 
+Forearms , 50
+Shoulders , 15
+Lawn mower  , 25
+Triceps  , 25
+Pecs , 15
+Pulldown  , 70
+Abs , 10 
+
+Mile ,  15:06
+Pulldown , 80
+Bench  , 35
+Curl , 50
+Forearms , 50
+Shoulders , 15
+Lawn Mower , 25
+Triceps , 15
+Pecs ,  15
+Abs , 14
+
+Mile , 15:04
+Tip toes , 40
+Leg press , 115
+Free weight Squat  , 20
+
+
+1 lap ,  3:51
+Bench , 35
+
+Frisbee , 30:00
+Pulldown , 85
+Bench , 40
+Biceps , 50
+Forearm , 50
+Shoulders , 20
+Lawn mower , 30
+Triceps , 30
+Pecs , 15
+Farmer walk , 35
+
+Half Mile ,  7:34
+Squat , 35
+Tip toe , 40
+Abs , 18
+
+Mile ,  14:46
+Bench , 40
+Shoulders , 20
+Lawn mower  , 30
+Triceps , 30
+Curl , 50
+Farmer walk , 40
+Pecs , 15
+Abs , 10
+
+half Mile , 7:25
+Bench , 42.5
+Shoulders , 25
+Lawn Mower , 35
+Triceps , 35
+Curl , 50 
+Farmer walk , 40
+Pecs , 15
+
+Half Mile , 8:24
+Bench , 42.5
+Curl , 50
+Seated row , 55
+Shoulders , 20
+Lawn mower,  35
+Triceps , 35
+Farmer walk , 40
+Crunches , 3x10
+
+Half Mile  , 8:41
+Leg press , 130
+Tip toes , 45 
+Squat , 35
+Abs , 18
+
+Half Mile , 8:38
+Bench , 45
+Curl , 50
+Shoulder , 20
+Row , 75
+Lawn mower , 35
+Triceps , 35
+Pec fly, 15
+Farmer walk , 45 
+Abs , 18
+
+lap , 4:23
+Bench , 45
+Curl , 50
+Shoulders , 25
+Shrug , 40
+Lawn Mower , 35
+Triceps , 35
+Pec fly , 15
+Farmer walk , 45
+
+Mile walk before end of work day
+Leg press , 145
+Tip toes , 45
+Squats , 50
+Crunches, 3x15  
+
+Walk , 1.9km
+Chest , 40
+Shoulders , 10
+Triceps , 20
+Pec fly , 20
+Curl , 20
+Farmer walk , 20
+Crunches , 3x15
+
+1Km walk
+Leg press ,  145 
+Tip toes  ,45 
+Abs  circuit , 10 
+
+Half Mile , 8:15
+Pulldown  , 85
+Biceps , 50
+Bench , 40
+Shoulders , 20
+Pec fly , 15
+Lawn mower  , 35
+Farmer walk , 45
+Abs , 10
+
+Half Mile , 8:39
+Leg press , 160
+Calf extension , 145
+Squats , 50
+Inclined situps , 25
+
+Half Mile incline , 8:39
+Bench , 45
+Curl , 60
+Pulldown , 110
+Shoulders  , 25
+Band kid , 10
+Lawn mowers  , 40
+Pec fly , 20 
+Farmer walk , 45
+
+Mile , 11:32
+Leg press ,  160
+Calf extension  , 145
+Squat , 55
+Tip toes  , 45
+Incline abs , 25
+
+Mile incline ,  17:17
+Pulldown , 100
+Curls , 60
+Chest  , 100
+
+Half Mile incline , 8:41
+Bench ,  45
+Shoulders , 20 
+Curl , 60
+Pec fly , 20
+Seated row , 85
+Wrists , 25
+Abs , 14
+
+Mile incline , 4.0 , 16:18
+Leg press , 160
+Calf extension , 160
+Squats, 55
+Tip toes ,  55
+
+Half Mile incline , 4.0 ,  8:43
+Seated row , 85
+Multi press , 110
+Curl , 60
+Shoulder press, 40
+Pec fly , 20
+Shrugs , 40
+Wrists , 25
+
+Mile incline , 4, 16:47
+Tip toes , 45
+Bench lunges , 25 , 3x10
+Crunches , 3x15
+Planks 1 min , 3
+
+Lap incline , 4.0 ,4:26
+Bench , 45 
+Shoulders , 20
+Seated row , 85
+Pec fly , 15
+Shrugs , 40
+Curls , 60
+Crunches , 3x15
+
+Mile incline , 4.0 , 16:39
+Squats , 50
+Tip toes , 45  ,3x15
+Incline abs , 25  ,3x10
+Crunches , 3x15 
+
+Incline walk ,  4.0 ,9:08
+Bench , 45
+Curl , 60
+Shoulders , 20
+Pecs , 15
+Shrugs , 45
+Seated row , 85
+Crunches , 3x15
+
+Mile incline , 4.0 , 16:35
+Curls , 60
+Shoulders , 25 
+Pecs , 20 
+Shrugs , 45
+Bench , 35
+Lawn mower , 35
+
+Mile Incline , 4 , 15:09
+Tip toes , 45
+Leg press ,  175
+Abs
+Crunch
+Sides
+Leg raise
+
+Half Mile incline , 4.0,  7:35
+Bench ,  45
+Curls , 60
+Shoulder , 20
+Band kid , 10
+Shrugs , 45
+Pecs , 20
+Lawn mower , 40
+
+Mile Incline  , 4.0 , 7:36
+Curl , 60
+Shoulder Press , 25
+Shrugs  , 45
+Pecs , 20
+Lawn mower , 45
+Crunches
+Sides
+
+Mile incline , 4.0 ,15:05
+Leg press , 195
+Tip toes , 45
+Abs
+Crunches
+Sides
+
+Outdoor walk 
+Bench , 45 
+Curl , 60
+Shoulders , 25
+Shrugs , 45
+Band kid , 15 
+Pecs , 20
+Lawn mower
+
+Mile incline , 4, 15:05
+Chest press , 110
+Curl , 60
+Shoulders , 25
+Shrug , 40
+Band kid , 12.5
+Pec fly , 85
+Row , 85
+Abs
+
+Mile incline , 4, 14:24
+Hip abduction , 160
+Incline press , 90
+Tip toes , 40
+Glutes , 50
+Leg extensions ,100
+
+Mile incline , 14:07
+Bench , 45
+Curls , 60
+Shoulders , 25
+Pec fly , 95
+Abs 
+
+Rock climb
+
+Mile incline , 4, 14:04
+Incline press , 90
+Hip abduction , 175
+Leg extension, 110
+Leg curl , 110
+
+mile incline, 4, 14:09 
+Bench , 45, 3x5
+Pec fly , 20
+Shoulders , 20
+
+Mile Incline , 4.0 ,13:39
+Curl , 50
+Shoulder press , 25
+Shrugs , 40
+Pec fly , 20
+Band kid , 10
+Pulldown , 90
+
+Mile Incline , 4.0 ,12:58
+Leg press , 195
+Incline leg press , 90
+Hip abductor out, 115 
+hip abductor in, 125
+Leg curl , 90
+Leg extension , 90
+Abs circuit , 10
+
+Mile incline , 4.0 ,14:15
+Bench , 45
+Curls , 60
+Pull down , 100
+Shoulder press , 40
+Pec fly , 90
+Abs
+
+Mile incline , 4.0 ,12:04
+Squat , 50
+Leg curl , 100
+Tip toes , 45
+Leg extension ,100
+Abductors , 120
+Abs circuit , 8
+
+Mile incline  , 4.0 ,14:21
+Chest press , 110
+Lat pulldown , 110
+Shoulder hammer curl, 50
+Pec fly , 95
+Abs
+
+Mile incline , 5.0 ,13:46
+Squats , 55
+Leg extension, 110
+Tip toes , 50
+Leg curl , 110
+Abductors , 125
+Abs
+
+Mile , 4.5 ,13:48
+Shoulder press , 60
+Lat pulldown , 115
+Pec fly , 120
+Bench , 35
+Abs
+Tricep Press , 120
+Rock climbing
+Topped out at 5.7
+
+Mile incline , 4.0 ,13:05
+Squat , 55
+Leg extension  , 125
+Tiptoe  , 50
+Leg curl , 100
+Abdutors , 125
+Abs
+
+Mile incline , 4.0 ,11:56
+Squat , 60
+Leg extension  , 140
+Leg curl , 115
+Abductors , 130
+
+time crunch
+Half Mile , 4.0 ,6:27
+Pull down, 125
+Pec fly , 120
+Shoulder press , 50
+Curls , 50
+Abs
+
+Mountain
+
+Mile incline , 4.0 ,12:43
+Bench , 40
+Shoulders , 50
+Lawn mower , 35
+Pec fly , 20
+Shrugs , 40
+Abs 
+
+Mile incline , 4.5 ,13:42
+Shoulders , 55
+Curl , 50
+Lats ,  100
+Pec fly , 20
+Shrugs , 45
+Bench , 25
+Abs
+
+Mile incline , 4.5 ,14:11
+Bench , 40
+Shoulders , 20
+Pec fly , 20
+Shrugs , 40
+Curls , 50
+Shrugs , 40
+Back , 30
+Abs
+
+Mile incline , 6.0, 13:44
+Squats , 55
+Leg curl , 105
+Tip toes , 40
+Leg extension  , 115
+Hip abduction in,135 
+Hip abduction out, 120
+Sit up
+
+Mile incline , 4.0, 14:22
+Bench , 40
+Curls , 50
+Shoulders , 50
+Triceps , 35
+Pecs , 20
+
+Mile incline  , 4.0 ,14:04
+Bench , 40
+Triceps  , 35
+Lawn mower , 35
+Pecs , 25
+Band kid , 10
+Abs
+sit ups
+
+Mile incline , 4.0 ,12:33
+Squat , 55
+Leg extension, 115
+Leg curl , 110
+Hip abductors , 125
+Tip toes , 40
+Abs
+
+Mile incline , 4.0 ,14:22
+Bench , 40
+Triceps , 40
+Lawn mower , 40
+Abs
+
+Mile incline , 4.0 ,13:56
+Bench , 40  3x10
+Shoulders , 45
+Seated row , 100
+Abs
+
+Mile incline , 4.0 ,13:28
+Shoulders , 25
+Bench , 40
+Pec fly , 90
+Triceps Pulldown pt1 , 50
+Triceps Pulldown pt 2 , 20
+
+Mile incline , 4.0 ,13:27
+Tip toes , 45
+Squats  , 55
+Leg extension  , 120
+Abductor, 130
+Situps, 100
+Leg curls , 100 
+
+Mile incline , 14:03
+Bench , 35
+Shoulder press , 30
+Nya , 50
+Triceps, 60
+Abs
+
+Mile incline , 4.0 ,13:14
+Leg curl , 90
+Leg extension ,110
+Squat , 50
+Tip toes , 45
+Abductors , 130
+Abs
+
+Mile , 11:04
+Pec fly , 20
+Shoulders , 25
+Curls , 50
+Lat pulldown , 50
+Abs
+Nya , 30
+Triceps  pulldown , 40
+
+Mile incline , 4.0 ,13:30
+Leg curl , 100
+Leg extension , 120
+Tip toes , 50
+Squat  ,  55
+Abductors in , 140
+Abductors out, 130
+Abs
