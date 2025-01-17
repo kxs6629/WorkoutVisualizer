@@ -232,7 +232,7 @@ Tip toes,45
 Squats,50
 Crunches,3x15  
 
-Walk,1.9km
+Walk
 Chest,40
 Shoulders,10
 Triceps,20
@@ -241,7 +241,7 @@ Curl,20
 Farmer walk,20
 Crunches,3x15
 
-1Km walk
+Walk
 Leg press,145 
 Tip toes,45 
 Abs  circuit,10 
@@ -574,7 +574,7 @@ Lawn mower,40
 Abs
 
 Mile incline,4.0,13:56
-Bench,40  3x10
+Bench,40,3x10
 Shoulders,45
 Seated row,100
 Abs

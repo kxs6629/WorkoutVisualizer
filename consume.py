@@ -18,13 +18,28 @@ def consume(filename):
                 activityMap.append([day,curLine[0]])
                 print("generic activity")
             elif dataLen == 2:
-                activityMap.append([day,curLine[0],int(curLine[1])])
+                activityMap.append([day,curLine[0],formatY(curLine[1])])
                 print("")
             elif dataLen == 3:
-                activityMap.append([day,curLine[0],curLine[1],curLine[2]])
+                activityMap.append([day,curLine[0],curLine[1],formatY(curLine[2])])
                 print()
             else:
                 print("not sure how you got here man")
 
     dataFile.close()
     return activityMap
+
+# So this is the dirty part
+# Down the line I wanna come back here and tidy things up some more
+def formatY(val):
+    if ':' in val:
+        timeVal = val.split(':')
+        timeInSec = (int(timeVal[0]) * 60) + int(timeVal[1])
+        return timeInSec
+    elif 'x' in val:
+        repVal = val.split('x')
+        return int(repVal[0])*int(repVal[1])
+    elif '.' in val:
+        return int(float(val))
+    else:
+        return int(val)

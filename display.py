@@ -6,6 +6,8 @@ import matplotlib as plt
 
 data = c.consume('data/work.txt')
 print(data)
+# Now that I have all of this data, I need to find a way to get it mapped in graph friendly format
+
 
 # In the future, this should have a prettier interface
 # Once I'm satisfeid with the desktop version, I can worry about making this mobile
