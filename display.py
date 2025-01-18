@@ -1,5 +1,6 @@
 import consume as c
 import matplotlib as plt
+import numpy as np
 
 # Right now I just want to take in the data from consume.py and display line graphs
 # in a window where you can change the data set on the fly (various activities)
@@ -12,8 +13,11 @@ for i in data:
     curActivity = i[1]
     if curActivity not in workoutTypes:
         workoutTypes.add(curActivity)
-print(workoutTypes)
-
+# print(workoutTypes)
+# for type in workoutTypes:
+#     np.where(data[1] == type)
+# data[0]
+# data[1 == 'BENCH']
 # Time to figure out how to:
 # Display a single data set
 # Switch data set, refresh graph (preferably in the UI)
