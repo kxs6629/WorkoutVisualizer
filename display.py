@@ -13,7 +13,13 @@ for i in data:
     curActivity = i[1]
     if curActivity not in workoutTypes:
         workoutTypes.add(curActivity)
-# print(workoutTypes)
+print(workoutTypes)
+print(data[0])
+print(data[0][1])
+# print(data['BENCH'])
+# np.select((data[0][1] == "BENCH"),data)
+
+
 # for type in workoutTypes:
 #     np.where(data[1] == type)
 # data[0]
