@@ -1,9 +1,11 @@
 # rather than painstakingly going through the data again, I'm making this script
 def formatFile(filename):
-    dataFile= open(filename, "r")
-    newFile  = open('data/formattedData.csv',"w")
+    dataFile = open(filename, "r",newline="\n")
+    newFile  = open("data/formattedData.csv","w",newline="\n")
+
     newFile.write("day,activity,weight/time\n")
     day = 0
+    
     for line in dataFile:
         if line == "\n":
             day+=1
