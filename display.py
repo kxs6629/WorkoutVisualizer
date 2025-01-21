@@ -8,18 +8,15 @@ pd.options.plotting.backend = "plotly"
 
 cd.formatFile('data/work.txt')
 data = c.consume('data/formattedData.csv')
-print(data)
 
 # Now that I have all of this data, I need to find a way to plot it
-# lmao nevermind plotly and panda made so easy???
-
-
-
 # Time to figure out how to:
 # Display a single data set
 # Switch data set, refresh graph (preferably in the UI)
 # Display a l l 
-fig = data.plot(x="day",y="weight/time",color="activity")
+
+# lmao nevermind plotly and panda made so easy???
+fig = data.plot(title="Workout Visualizer",x="Day",y="Weight(lbs)/Time(seconds)",color="Activity")
 fig.show()
 
 

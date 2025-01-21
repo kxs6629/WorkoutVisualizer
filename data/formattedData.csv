@@ -1,4 +1,4 @@
-day,activity,weight/time
+Day,Activity,Weight(lbs)/Time(seconds)
 0,MILE,916
 0,BENCH,20
 0,BAND KID,5
